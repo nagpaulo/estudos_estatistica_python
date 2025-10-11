@@ -1,1 +1,1 @@
-# Estuadando estaticas com o python
+# Estudando estatisticas com o python
